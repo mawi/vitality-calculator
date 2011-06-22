@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/AplicativoFapie/!svn/ver/1604/trunk/vendor/plugins/sortable_table/test/rails_root/log
+END
+development.log
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/AplicativoFapie/!svn/ver/1604/trunk/vendor/plugins/sortable_table/test/rails_root/log/development.log
+END
+production.log
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/AplicativoFapie/!svn/ver/1604/trunk/vendor/plugins/sortable_table/test/rails_root/log/production.log
+END
+server.log
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/AplicativoFapie/!svn/ver/1604/trunk/vendor/plugins/sortable_table/test/rails_root/log/server.log
+END

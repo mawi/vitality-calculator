@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/AplicativoFapie/!svn/ver/1604/trunk/vendor/plugins/sortable_table/test/rails_root/db/migrate
+END
+20081229222354_user_belongs_to_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/AplicativoFapie/!svn/ver/1604/trunk/vendor/plugins/sortable_table/test/rails_root/db/migrate/20081229222354_user_belongs_to_group.rb
+END
+20081229222312_create_groups.rb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/AplicativoFapie/!svn/ver/1604/trunk/vendor/plugins/sortable_table/test/rails_root/db/migrate/20081229222312_create_groups.rb
+END
+20080819225020_create_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/AplicativoFapie/!svn/ver/1604/trunk/vendor/plugins/sortable_table/test/rails_root/db/migrate/20080819225020_create_users.rb
+END

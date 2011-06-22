@@ -1,0 +1,18 @@
+development:
+  adapter: mysql
+  database: vcalc
+  username: root
+  socket: /var/run/mysqld/mysqld.sock
+
+test:
+  adapter: mysql
+  database: vcalc-test
+  username: root
+  socket: /var/run/mysqld/mysqld.sock
+
+production:
+  adapter: mysql
+  database: vcalc-production
+  username: root
+  socket: /var/run/mysqld/mysqld.sock
+

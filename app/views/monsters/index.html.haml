@@ -1,0 +1,12 @@
+%table{:border => 1}
+  %thead
+    %th Nombre
+    =sortable_table_header :name => "Lvl",  :sort => "lvl"
+    = sortable_table_header :name => "HP",  :sort => "hp"
+    = sortable_table_header :name => "Exp",  :sort => "exp"
+    = sortable_table_header :name => "Vit",  :sort => "vitality"
+    %th Mapa
+  %tbody
+    = render @monsters
+
+= will_paginate @monsters

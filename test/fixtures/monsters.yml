@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  lvl: 1
+  hp: 1
+  vitality: 1
+  location: MyString
+
+two:
+  name: MyString
+  lvl: 1
+  hp: 1
+  vitality: 1
+  location: MyString

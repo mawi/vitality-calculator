@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AplicativoFapie/!svn/ver/1604/trunk/vendor/plugins/sortable_table/test/rails_root/test
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/AplicativoFapie/!svn/ver/1604/trunk/vendor/plugins/sortable_table/test/rails_root/test/test_helper.rb
+END
+fail_macros.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/AplicativoFapie/!svn/ver/1604/trunk/vendor/plugins/sortable_table/test/rails_root/test/fail_macros.rb
+END
+shoulda_macros.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/AplicativoFapie/!svn/ver/1604/trunk/vendor/plugins/sortable_table/test/rails_root/test/shoulda_macros.rb
+END
+helper_testcase.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/AplicativoFapie/!svn/ver/1604/trunk/vendor/plugins/sortable_table/test/rails_root/test/helper_testcase.rb
+END
